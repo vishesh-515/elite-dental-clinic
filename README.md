@@ -51,8 +51,6 @@ The website's implementation technologies can be documented here based on the ac
 - JavaScript: Add the language or framework used
 - Deployment: Add the hosting platform used
 
-*Note: Update this section to match the technologies present in the repository.*
-
 ## 🚀 Getting Started
 
 To explore the website, visit the live link:
