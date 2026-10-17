@@ -42,13 +42,6 @@ The clinic website showcases a wide range of dental treatments, including:
 - TMJ and Jaw Joint Care
 - Pediatric Dental Care
 
-## 👩‍⚕️ About the Dentist
-
-**Dr. Nandini Bansal**  
-BDS | Root Canal, Laser and Smile Specialist
-
-The clinic provides modern dental treatments with an emphasis on patient comfort, hygiene, and individualized treatment recommendations.
-
 ## 🛠️ Technologies Used
 
 The website's implementation technologies can be documented here based on the actual project source code.
@@ -83,15 +76,6 @@ To run the source code locally, if the project supports local development:
 3. Install the required dependencies according to the project's package manager and configuration.
 
 4. Start the development server using the command specified in the project's documentation.
-
-## 📍 Clinic Information
-
-**Elite Dental Clinic**
-
-- **Location:** Dabwali Road, opposite City Diagnostic Centre, near Dr. Lal Path Lab, Sirsa, Haryana – 125055
-- **Phone:** +91 94676-24898
-- **Email:** elitedentalclinic30@gmail.com
-- **Website:** [https://www.elitedentalclinic.info/](https://www.elitedentalclinic.info/)
 
 ## 🎯 Project Objective
 
